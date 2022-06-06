@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "lb2Pff+ndtPmRcvsy/xJBlnv3bIZoEz2YzfsaQdPqhP4WVj3ipuY5IR+f4d7hq6EsJ3tI1ixS4Sa9lxKfe2Alw==",
+  "success": true,
+  "projectFilePath": "D:\\Anti-Virus 2022\\Anti-Virus 2022\\Anti-Virus 2022.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goura\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.2\\guna.ui2.winforms.2.0.3.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guna.UI2.WinForms 2.0.3.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
